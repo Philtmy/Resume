@@ -1,38 +1,14 @@
-# Web前端程序员简历模板
+# 个人简历
 
-本简历模板由国内首家互联网人才拍卖网站「 [JobDeer.com](http://www.jobdeer.com) 」提供。
-
-（括号里的是我们的顾问编写的说明，建议在简历书写完成后统一删除）
-
-## 先讲讲怎样才是一份好的技术简历
-
-首先，一份好的简历不光说明事实，更通过FAB模式来增强其说服力。
-
- - Feature：是什么
- - Advantage：比别人好在哪些地方
- - Benefit：如果雇佣你，招聘方会得到什么好处 
-
-其次，写简历和写议论文不同，过分的论证会显得自夸，反而容易引起反感，所以要点到为止。这里的技巧是，提供论据，把论点留给阅读简历的人自己去得出。放论据要具体，最基本的是要数字化，好的论据要让人印象深刻。
-
-举个例子，下边内容是虚构的：
-
-2006年，我参与了手机XX网发布系统WAPCMS的开发（```这部分是大家都会写的```）。作为核心程序员，我不但完成了网站界面、调度队列的开发工作，更提出了高效的组件级缓存系统，通过碎片化缓冲有效的提升了系统的渲染效率。（```这部分是很多同学忘掉的，要写出你在这个项目中具体负责的部分，以及你贡献出来的价值。```）在该系统上线后，Web前端性能从10QPS提升到200QPS，服务器由10台减少到3台（``` 通过量化的数字来增强可信度 ```）。2008年我升任WAPCMS项目负责人，带领一个3人小组支持着每天超过2亿的PV（``` 这就是Benefit。你能带给前雇主的价值，也就是你能带给新雇主的价值。 ```）。
-
-有同学问，如果我在项目里边没有那么显赫的成绩可以说怎么办？讲不出成绩时，就讲你的成长。因为学习能力也是每家公司都看中的东西。你可以写你在这个项目里边遇到了一个什么样的问题，别人怎么解决的，你怎么解决的，你的方案好在什么地方，最终这个方案的效果如何。
-
-具体、量化、有说服力，是技术简历特别需要注重的地方。
-
-（以上内容在写完简历后，对每一段进行评估，完成后再删除）
-
----
+照骗
 
 
 # 联系方式
-（HR会打印你的简历，用于在面试的时候联系，所以联系方式放到最上边会比较方便）
 
-- 手机：135******** （```如果是外地手机，可注明。如经常关机，要写上最优联系时间```）
-- Email：goodman@gmail.com （```虽然我觉得QQ邮箱无所谓，不过有些技术人员比较反感，建议用G```）
-- QQ/微信号：6*******（```提供一个通过网络可以联系到你的方式```）
+
+- 手机：18773220522 
+- Email：211614804@qq.com 
+- QQ/微信号：QQ:211614804 WX号:My_TanKing
 
 ---
 
@@ -89,10 +65,10 @@
 （这一段用于放置工作以外的、可证明你的能力的材料）
 
 ## 开源项目
-（对于程序员来讲，没有什么比Show me the code能有说服力了）
+ 对于程序员来讲，没有什么比Show me the code能有说服力了，对于我来说做一只白嫖怪
 
- - [STU](http://github.com/yourname/projectname)：项目的简要说明，Star和Fork数多的可以注明
- - [WXYZ](http://github.com/yourname/projectname)：项目的简要说明，Star和Fork数多的可以注明
+ - [STU](http://github.com/yourname/projectname)：1
+ - [WXYZ](http://github.com/yourname/projectname)：2
 
 ## 技术文章
 （挑选你写作或翻译的技术文章，好的文章可以从侧面证实你的表达和沟通能力，也帮助招聘方更了解你）
@@ -107,101 +83,16 @@
  - 9月公司内部分享：[云计算的前生今世](http://jobdeer.com)
 
 # 技能清单
-（我一般主张将技能清单写入到工作经历里边去。不过很难完整，所以有这么一段也不错）
 
-以下均为我熟练使用的技能
 
-- Web开发：PHP/Hack/Node
-- Web框架：ThinkPHP/Yaf/Yii/Lavaral/LazyPHP
-- 前端框架：Bootstrap/AngularJS/EmberJS/HTML5/Cocos2dJS/ionic
-- 前端工具：Bower/Gulp/SaSS/LeSS/PhoneGap
-- 数据库相关：MySQL/PgSQL/PDO/SQLite
-- 版本管理、文档和自动化部署工具：Svn/Git/PHPDoc/Phing/Composer
-- 单元测试：PHPUnit/SimpleTest/Qunit
-- 云和开放平台：SAE/BAE/AWS/微博开放平台/微信应用开发
+以下均为我使用的技能
 
-## 参考技能关键字
-
-本技能关键字列表是从最近招聘Web前端的数百份JD中统计出来的，括号中是出现的词频。如果你的简历要投递给有机器（简历分选系统）和不如机器（不懂技术的HR）筛选简历环节的地方，请一定从下边高频关键词中选择5～10个适合你自己的。
-
-- web(889)
-- javascript(596)
-- css(555)
-- html(430)
-- jquery(323)
-- html5(312)
-- js(311)
-- ajax(196)
-- css3(176)
-- w3c(168)
-- div(156)
-- php(134)
-- xhtml(106)
-- java(92)
-- ui(78)
-- photoshop(75)
-- dom(63)
-- xml(56)
-- json(54)
-- yui(51)
-- flash(45)
-- bootstrap(43)
-- python(43)
-- http(38)
-- dreamweaver(38)
-- ext(33)
-- linux(33)
-- seo(32)
-- prototype(29)
-- chrome(28)
-- pc(28)
-- nodejs(28)
-- firefox(26)
-- ps(25)
-- angularjs(25)
-- fireworks(24)
-- extjs(23)
-- safari(22)
-- www(22)
-- mobile(22)
-- jsp(22)
-- mvc(22)
-- backbone(21)
-- node(21)
-- ruby(20)
-- github(19)
-- ios(18)
-- ie6(18)
-- android(18)
-- asp(18)
-- sass(17)
-- wap(16)
-- mootools(16)
-- ie(16)
-- mysql(15)
-- flex(14)
-- firebug(13)
-- bom(13)
-- webapp(12)
-- less(12)
-- web2(11)
-- angular(10)
-- git(10)
-- dw(10)
-- as(10)
-- mac(10)
-- psd(8)
-- o2o(7)
-- dojo(7)
-- actionscript3(6)
-- grunt(5)
-- ue(5)
-- zepto(5)
-- actionscript(5)
-- ie8(5)
-- coffeescript(5)
-- django(4)
-
+- 生存必备技能：一顿只炫一顿饭
+- B站up主：发压的轰biubiubiu
+- 网络工程师：目前在备考软考中级、熟练使用考试软件华为eNSP
+- 编程软件：VScode
+- 数据库相关：MySQL
+- 版本管理、文档和自动化部署工具：Git
 
 
 
