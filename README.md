@@ -67,22 +67,22 @@
 ## 技术文章
  我不生产文章，我只是优质内容的搬运工
 
-- 如何优雅的闲逛github网站: [传送门](https://github.com/trending)
+- 如何优雅的闲逛github网站: [github传送门](https://github.com/trending)
 - 搜索项目资源小技巧：加前缀 awesome xxx 、找例子：xxx sample 、空项目架子：xxx starter
 
 
 # 技能清单
 
-
 以下均为我的技能
 
-- 生存必备技能：一天狂炫三顿饭，只为干口碳水，今儿放纵日~ ~ ~
-- B站up主：发压的轰biubiubiu
-- 网络工程师：目前在备考软考中级、熟练使用考试软件华为eNSP
-- 编程软件：VScode
+
+- 生存必备技能：一天狂炫三顿饭
+- 娱乐技能：唱歌、跳舞
+- 网络工程师：熟练使用华为eNSP、配置路由器、交换机
+- 操作系统：Windows、linux
+- 代码编辑器：VScode、pycharm
 - 数据库相关：MySQL
 - 版本管理、文档和自动化部署工具：Git
-
 
 
 ---
