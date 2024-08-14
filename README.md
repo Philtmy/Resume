@@ -6,10 +6,10 @@
 ---
 
 # 联系方式
-
+![image](./images/2.png)
 
 - 手机：18773220522 
-- Email：211614804@qq.com 
+- Email：211614804@qq.com                       
 - QQ/微信号：QQ:211614804 、WX号:My_TanKing
 
 ---
@@ -18,7 +18,7 @@
 
  - 谭茗耀/男/1997 
  - 本科/通信工程 
- - 工作年限：4年
+ - 工作年限：3年
  - B站up主页：https://space.bilibili.com/282990762
  - Github：http://github.com/Philtmy 
 
