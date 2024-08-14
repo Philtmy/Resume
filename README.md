@@ -1,8 +1,7 @@
 # 个人简历
 照骗
 
-
-<img src="./images/5.png" width="400" height="400">
+<img src="./images/5.png" width="350" height="350">
 
 ---
 
