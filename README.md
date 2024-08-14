@@ -1,7 +1,7 @@
 # 个人简历
-
 照骗
-![image](Resume/images/1.png)
+
+![image](./images/1.png)
 
 # 联系方式
 
