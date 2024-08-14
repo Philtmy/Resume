@@ -1,13 +1,12 @@
 # 个人简历
 照骗
 
-![image](./images/5.png)
 
+<img src="./images/5.png" width="400" height="400" />
 ---
 
 # 联系方式
 ![image](./images/2.png)
-
 - 手机：18773220522 
 - Email：211614804@qq.com                       
 - QQ/微信号：211614804/My_TanKing
@@ -15,7 +14,7 @@
 ---
 
 # 个人信息
-
+![image](./images/2.png)
  - 谭茗耀/男/1997 
  - 本科/通信工程 
  - 工作年限：3年
