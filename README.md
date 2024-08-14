@@ -1,7 +1,9 @@
 # 个人简历
 照骗
 
-![image](./images/1.png)
+![image](./images/5.png)
+
+---
 
 # 联系方式
 
