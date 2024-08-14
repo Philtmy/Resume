@@ -2,7 +2,8 @@
 照骗
 
 
-<img src="./images/5.png" width="400" height="400" />
+<img src="./images/5.png" width="400" height="400">
+
 ---
 
 # 联系方式
@@ -89,4 +90,6 @@
 
 # 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
-![image](./images/6.png)
+
+<img src="./images/6.png" width="200" height="200">
+
