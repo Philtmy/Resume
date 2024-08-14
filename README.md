@@ -19,7 +19,7 @@
  - 谭茗耀/男/1997 
  - 本科/通信工程 
  - 工作年限：3年
- - [我的B站up主页](https://space.bilibili.com/282990762)
+ - [我的B站主页](https://space.bilibili.com/282990762)
  - [我的Github主页](http://github.com/Philtmy) 
 
 
@@ -63,12 +63,12 @@
 ## 开源项目
  对于程序员来讲，没有什么比Show me the code能有说服力了，对于我来说只想做一只白嫖怪
 
- - 好玩的开源项目：Web虚拟机[](https://philtmy.github.io/webvm)
+ - 好玩的开源项目：[Webvm虚拟机](https://philtmy.github.io/webvm)
 
 ## 技术文章
-文章是不可能写的，我不生产文章，我只是优质内容的搬运工
+ 我不生产文章，我只是优质内容的搬运工
 
-- 如何优雅的闲逛github网站: https://github.com/trending
+- 如何优雅的闲逛github网站: [传送门](https://github.com/trending)
 - 搜索项目资源小技巧：加前缀 awesome xxx 、找例子：xxx sample 、空项目架子：xxx starter
 
 
@@ -90,3 +90,4 @@
 
 # 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
+![image](./images/6.png)
