@@ -63,7 +63,7 @@
  对于程序员来讲，没有什么比Show me the code能有说服力了，对于我来说只想做一只白嫖怪
 
  - 好玩的开源项目：[Webvm虚拟机](https://philtmy.github.io/webvm)
- - linux命令搜索项目：[快点我](https://wangchujiang.com/linux-command/)
+ - linux命令搜索项目：[点我搜索命令](https://wangchujiang.com/linux-command/)
 
 ## 技术文章
  我不生产文章，我只是优质内容的搬运工
